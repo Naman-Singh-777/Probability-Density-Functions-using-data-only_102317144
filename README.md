@@ -71,7 +71,7 @@ Took about 8-10 minutes on Colab GPU.
 
 ### Training Behavior
 
-Training was stable. Generator loss stayed around 0.6-0.9 and discriminator around 0.6-0.8 (sometimes went up to 1.38 but that's okay).
+Training was stable. Generator loss stayed around 0.6-0.9 and discriminator  went up to 1.38 (but that's okay).
 
 Both losses fluctuate a bit which is good - means they're competing properly. If they go flat too early that's mode collapse.
 
